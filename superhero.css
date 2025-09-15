@@ -10,6 +10,11 @@ h2
 {
     color:gold;
 }
+ol
+{
+  color:blue;
+  list-style-type: upper-roman;
+}
 nav
 {
    background-color: darkred;
