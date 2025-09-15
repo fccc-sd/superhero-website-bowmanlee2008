@@ -12,25 +12,25 @@ h2
 }
 nav
 {
-   background-color: lime;
+   background-color: darkred;
    line-height: 230%;
-   display: block;
+   display: block; 
 }
 nav li
 {
     display: inline;
     padding-right: 58px;
     list-style-type: none;
-    color:greenyellow 
+    color:lime 
 }
 nav a:link
 {
     text-decoration: none;
-    color:greenyellow  
+    color:lime  
 }
 nav a:visited
 {
-    color:greenyellow
+    color:lime
 }
 nav a:hover
 {
