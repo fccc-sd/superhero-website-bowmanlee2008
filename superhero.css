@@ -34,11 +34,11 @@ nav a:visited
 }
 nav a:hover
 {
-    color:darkgreen;
+    color:silver;
     text-decoration: underline;
 }
 nav a:active
 {
-    color:silver;
+    color: darkgreen;
     text-decoration: underline;
 }
