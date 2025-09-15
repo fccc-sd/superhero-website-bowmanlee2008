@@ -13,7 +13,7 @@ h2
 ol
 {
   color:palegreen;
-  list-style-type: upper-roman;
+  list-style-type: lower-roman;
 }
 nav
 {
