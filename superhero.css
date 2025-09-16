@@ -49,10 +49,10 @@ nav a:active
 }
 .vl 
 {
-  border-left: 12px solid yellow;
+  border-left: 9px solid yellow;
   height: 200px;
   position: absolute;
   left: 450%;
-  margin-left: -2px;
+  margin-left: -3px;
   top: 0;
 }
