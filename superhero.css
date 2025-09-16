@@ -49,9 +49,9 @@ nav a:active
 }
 .vl {
   border-left: 8px solid yellow;
-  height: 460px;
+  height: 440px;
   position: absolute;
-  left: 29%;
+  left: 20%;
   margin-left: -3px;
   top: 0;
 }
