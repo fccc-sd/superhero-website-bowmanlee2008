@@ -50,7 +50,7 @@ nav a:active
 .vl {
   border-left: 8px solid yellow;
   height: 460px;
-  position: absolute;
+  position: left;
   left: 30%;
   margin-left: -3px;
   top: 0;
