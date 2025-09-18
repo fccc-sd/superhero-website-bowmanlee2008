@@ -18,7 +18,8 @@ h3
 ul
 {
   color: lightgray;
-  list-style-type: italic;
+  list-style-type: none;
+  font-style: italic;
 }
 nav
 {
