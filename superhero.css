@@ -1,7 +1,6 @@
 h1
 {
     color: yellow;
-    font-style: strong;
 }
 p
 {
@@ -24,31 +23,25 @@ nav
 {
    background-color: darkred;
    line-height: 230%;
-   display: block; 
-}
+   display: block; }
 nav li
 {
     display: inline;
     padding-right: 58px;
     list-style-type: none;
-    color:lime 
-}
+    color:lime }
 nav a:link
 {
     text-decoration: none;
-    color:lime  
-}
+    color:lime }
 nav a:visited
 {
-    color:lime
-}
+    color:lime }
 nav a:hover
 {
     color:silver;
-    text-decoration: underline;
-}
+    text-decoration: underline;}
 nav a:active
 {
     color: darkgreen;
-    text-decoration: underline;
-}
+    text-decoration: underline;}
