@@ -4,7 +4,7 @@ h1
 }
 p
 {
-    color:firebrick;
+    color:lightgray;
 }
 h2
 {
@@ -16,7 +16,7 @@ h3
 }
 ol
 {
-  color:palegreen;
+  color: lightgray;
   list-style-type: lower-roman;
 }
 nav
