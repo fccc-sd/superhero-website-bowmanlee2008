@@ -17,6 +17,10 @@ h3
     color: orange;
     font-style: italic;
 }
+h6
+{
+    color: purple;
+}
 ul
 {
   color: lightgray;
