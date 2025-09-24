@@ -4,7 +4,7 @@ h1
    font-style: italic;
 }
 mark {
-  text-emphasis-color: lightgray;
+    color-scheme: lightgray;
   color: purple; 
 }
 em
