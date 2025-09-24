@@ -3,13 +3,10 @@ h1
     color: yellow;
    font-style: italic;
 }
-mark {
-    background-color: lightgray;
-  color: purple; 
-}
 p
 {
     color:white;
+    text-emphasis-color: darkmagenta;
 }
 h2
 {
