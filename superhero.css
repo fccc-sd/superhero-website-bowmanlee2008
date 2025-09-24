@@ -61,7 +61,7 @@ nav a:active
 }
 em
 {
-    color: yellow;
-    text-decoration: none;
+    color: darkmagenta;
+    font-weight: bold ;
 
 }
