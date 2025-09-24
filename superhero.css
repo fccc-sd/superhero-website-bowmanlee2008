@@ -4,12 +4,8 @@ h1
    font-style: italic;
 }
 mark {
-    color-scheme: lightgray;
+    background-color: lightgray;
   color: purple; 
-}
-em
-{
-    font-style:bold;
 }
 p
 {
