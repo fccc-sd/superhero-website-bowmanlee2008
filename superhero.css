@@ -63,7 +63,8 @@ nav a:active
     color: darkgreen;
     text-decoration: underline;
 }
-&nbsp
+em
 {
     color: yellow;
+    text-decoration: none;
 }
