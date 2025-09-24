@@ -3,6 +3,10 @@ h1
     color: yellow;
    font-style: italic;
 }
+mark {
+  text-emphasis-color: lightgray;
+  color: purple; 
+}
 em
 {
     font-style:bold;
@@ -67,4 +71,5 @@ em
 {
     color: yellow;
     text-decoration: none;
+
 }
