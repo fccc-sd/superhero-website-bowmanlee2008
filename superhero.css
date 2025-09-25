@@ -1,0 +1,66 @@
+h1
+{
+    color: yellow;
+   font-style: italic;
+}
+p
+{
+    color:white;
+}
+h2
+{
+    color:gold;
+    font-style: italic;
+}
+h3
+{
+    color: orange;
+    font-style: italic;
+}
+h5
+{
+    color: purple;
+}
+ul
+{
+  color: red;
+  list-style-type: none;
+  font-style: italic;
+}
+nav
+{
+   background-color: grey;
+   line-height: 258%;
+   display: block; 
+}
+nav li
+{
+    display: inline;
+    padding-right: 58px;
+    list-style-type: none;
+    color:red 
+}
+nav a:link
+{
+    text-decoration: none;
+    color:lime 
+}
+nav a:visited
+{
+    color:dimgrey 
+}
+nav a:hover
+{
+    color:silver;
+    text-decoration: underline;
+}
+nav a:active
+{
+    color: darkgreen;
+    text-decoration: underline;
+}
+em
+{
+    color: darkmagenta;
+    text-decoration: underline;
+}
