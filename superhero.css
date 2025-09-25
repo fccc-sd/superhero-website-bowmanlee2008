@@ -62,5 +62,5 @@ nav a:active
 em
 {
     color: darkmagenta;
-    font-weight: bolder ;
+    text-decoration: underline;
 }
