@@ -51,11 +51,11 @@ nav a:link
 }
 nav a:visited
 {
-    color:dimgrey 
+    color:yellow 
 }
 nav a:hover
 {
-    color:silver;
+    color:black;
     text-decoration: underline;
 }
 nav a:active
