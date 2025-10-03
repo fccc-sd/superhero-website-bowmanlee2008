@@ -1,0 +1,88 @@
+h1
+{
+    color: yellow;
+   font-style: italic;
+}
+p
+{
+    color:white;
+}
+h2
+{
+    color:turquoise;
+    font-style: italic;
+}
+h3
+{
+    color: orange;
+    font-style: italic;
+}
+h4
+{
+    color:red;
+}
+h5
+{
+    color: whitesmoke;
+}
+ol
+{
+  color: rgb(62, 158, 197);
+  list-style-type: none;
+  font-style: italic;
+}
+ul
+{
+  color: red;
+  list-style-type: none;
+  font-style: italic;
+}
+nav
+{
+   background-color: grey;
+   line-height: 299%;
+   display: block; 
+}
+nav li
+{
+    display: inline;
+    padding-right: 58px;
+    list-style-type: none;
+    color:red 
+}
+nav a:link
+{
+    text-decoration: none;
+    color:lime 
+}
+nav a:visited
+{
+    color:yellow 
+}
+nav a:hover
+{
+    color:black;
+    text-decoration: underline;
+}
+nav a:active
+{
+    color: darkgreen;
+    text-decoration: underline;
+}
+em
+{
+    color: darkmagenta;
+    text-decoration: underline;
+    font-style: italic;
+}
+hr 
+{
+  display: block;
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: outset;
+  border-width: 3px;
+  border-color: red;
+}
