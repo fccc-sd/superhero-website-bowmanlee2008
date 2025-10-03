@@ -25,6 +25,12 @@ h5
 {
     color: whitesmoke;
 }
+ol
+{
+  color: rgb(62, 158, 197);
+  list-style-type: none;
+  font-style: italic;
+}
 ul
 {
   color: red;
@@ -68,4 +74,15 @@ em
     color: darkmagenta;
     text-decoration: underline;
     font-style: italic;
+}
+hr 
+{
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+  border-color: red;
 }
