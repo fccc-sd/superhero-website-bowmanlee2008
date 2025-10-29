@@ -1,3 +1,7 @@
+body
+{
+    background-color: black
+}
 h1
 {
     color: yellow;
@@ -85,4 +89,20 @@ hr
   border-style: outset;
   border-width: 3px;
   border-color: red;
+}
+
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+#container
+{
+
+}
+aside
+{
+
 }
