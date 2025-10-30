@@ -5,7 +5,7 @@ h1
 }
 p
 {
-    color:white;
+    color: rgb(25, 11, 200);
 }
 h2
 {
@@ -42,6 +42,8 @@ nav
    background-color: yellow ;
    line-height: 297%;
    display: block; 
+   padding: 10px;
+   margin: 10px;
 }
 nav li
 {
@@ -98,26 +100,40 @@ body
 }
 #container
 {
-    width: 900px;
+    width: 960px;
     margin: 0 auto;
-    background-color:rgb(4, 200, 200);
+    background-color: darkred;
 }
 header
 {
-    height: 230px;
-    width: 860px;
-    padding: 20px;
+    height: 100px;
+    width: 910px;
+    padding: 25px;
     background-color: orange;
 }
 aside
 {
-    background-color:  darkgreen;
+
+    width: 235px;
+    height: 390px;
+    padding: 15px;
+    margin: 0px 10px 10px 0px;
+    background-color: darkgreen;
+    float: left;
+    
 }
 section
 {
     background-color: indigo;
+   
+    float: right;
+    width: 650px;
+    height: 390px;
+    padding: 15px;
 }
 footer
 {
-    background-color: red;
+    background-color: royalblue;
+    padding: 9px;
+    clear:both;
 }
