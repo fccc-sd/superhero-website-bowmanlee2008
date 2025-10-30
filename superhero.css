@@ -1,7 +1,3 @@
-body
-{
-    background-color: black
-}
 h1
 {
     color: yellow;
@@ -43,25 +39,25 @@ ul
 }
 nav
 {
-   background-color: grey;
-   line-height: 299%;
+   background-color: yellow ;
+   line-height: 297%;
    display: block; 
 }
 nav li
 {
     display: inline;
-    padding-right: 58px;
+    padding-right: 56px;
     list-style-type: none;
-    color:red 
+    color: red
 }
 nav a:link
 {
     text-decoration: none;
-    color:lime 
+    color:indigo 
 }
 nav a:visited
 {
-    color:yellow 
+    color:darkblue;
 }
 nav a:hover
 {
@@ -88,21 +84,40 @@ hr
   margin-right: auto;
   border-style: outset;
   border-width: 3px;
-  border-color: red;
+  border-color: rgb(60, 60, 60);
 }
-
 
 *
 {
     margin: 0;
     padding: 0;
 }
-
+body
+{
+    background-color: black
+}
 #container
 {
-
+    width: 900px;
+    margin: 0 auto;
+    background-color:rgb(4, 200, 200);
+}
+header
+{
+    height: 230px;
+    width: 860px;
+    padding: 20px;
+    background-color: orange;
 }
 aside
 {
-
+    background-color:  darkgreen;
+}
+section
+{
+    background-color: indigo;
+}
+footer
+{
+    background-color: red;
 }
