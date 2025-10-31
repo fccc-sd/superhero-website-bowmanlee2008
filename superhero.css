@@ -1,0 +1,138 @@
+h1
+{
+    color: yellow;
+   font-style: italic;
+}
+p
+{
+    color: rgb(255, 255, 255);
+}
+h2
+{
+    color:turquoise;
+    font-style: italic;
+}
+h3
+{
+    color: orange;
+    font-style: italic;
+}
+h4
+{
+    color:red;
+}
+h5
+{
+    color: ghostwhite;
+}
+ol
+{
+  color: rgb(62, 158, 197);
+  list-style-type: none;
+  font-style: italic;
+}
+ul
+{
+  color: red;
+  list-style-type: none;
+  font-style: italic;
+}
+em
+{
+    color: darkmagenta;
+    text-decoration: underline;
+    font-style: italic;
+}
+hr 
+{
+  display: block;
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: outset;
+  border-width: 3px;
+  border-color: rgb(60, 60, 60);
+}
+nav
+{
+   background-color: yellow ;
+   line-height: 297%;
+   display: block; 
+   padding: 10px;
+   margin: 15px;
+}
+nav li
+{
+    display: inline;
+    padding-right: 56px;
+    list-style-type: none;
+}
+nav a:link
+{
+    color: black;
+    text-decoration: none;     
+}
+nav a:visited
+{
+    color:darkblue;
+}
+nav a:hover
+{
+    color: darkmagenta;
+    text-decoration: underline;
+}
+nav a:active
+{
+    color: darkgreen;
+    text-decoration: underline;
+}
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-color: black
+}
+#container
+{
+    width: 965px;
+    margin: 0 auto;
+}
+header
+{
+    height: 100px;
+    width: 915px;
+    padding: 25px;
+    background-color: turquoise;
+    color:black;
+}
+aside
+{
+
+    width: 320px;
+    height: 400px;
+    padding: 10px;
+    margin: 0px 10px 10px 0px;
+    background-color: rgb(234, 10, 10);
+    color:yellow;
+    float: left;
+}
+section
+{
+    width: 580px;
+    height: 390px;
+    padding: 15px;
+    background-color: rgb(185, 0, 202);
+    color:gold;
+    float: right;
+}
+footer
+{
+    padding: 10px;
+    clear:both;
+    background-color: rgb(10, 55, 3);
+    color:rgb(255, 255, 255);
+}
