@@ -5,7 +5,7 @@ h1
 }
 p
 {
-    color: rgb(25, 11, 200);
+    color: rgb(255, 255, 255);
 }
 h2
 {
@@ -23,7 +23,7 @@ h4
 }
 h5
 {
-    color: whitesmoke;
+    color: ghostwhite;
 }
 ol
 {
@@ -36,40 +36,6 @@ ul
   color: red;
   list-style-type: none;
   font-style: italic;
-}
-nav
-{
-   background-color: yellow ;
-   line-height: 297%;
-   display: block; 
-   padding: 10px;
-   margin: 10px;
-}
-nav li
-{
-    display: inline;
-    padding-right: 56px;
-    list-style-type: none;
-    color: red
-}
-nav a:link
-{
-    text-decoration: none;
-    color:indigo 
-}
-nav a:visited
-{
-    color:darkblue;
-}
-nav a:hover
-{
-    color:black;
-    text-decoration: underline;
-}
-nav a:active
-{
-    color: darkgreen;
-    text-decoration: underline;
 }
 em
 {
@@ -88,6 +54,39 @@ hr
   border-width: 3px;
   border-color: rgb(60, 60, 60);
 }
+nav
+{
+   background-color: yellow ;
+   line-height: 297%;
+   display: block; 
+   padding: 10px;
+   margin: 15px;
+}
+nav li
+{
+    display: inline;
+    padding-right: 56px;
+    list-style-type: none;
+}
+nav a:link
+{
+    color: black;
+    text-decoration: none;     
+}
+nav a:visited
+{
+    color:darkblue;
+}
+nav a:hover
+{
+    color: darkmagenta;
+    text-decoration: underline;
+}
+nav a:active
+{
+    color: darkgreen;
+    text-decoration: underline;
+}
 
 *
 {
@@ -100,40 +99,41 @@ body
 }
 #container
 {
-    width: 960px;
+    width: 965px;
     margin: 0 auto;
-    background-color: darkred;
 }
 header
 {
     height: 100px;
-    width: 910px;
+    width: 915px;
     padding: 25px;
-    background-color: orange;
+    background-color: turquoise;
+    color:black;
 }
 aside
 {
 
-    width: 235px;
-    height: 390px;
-    padding: 15px;
+    width: 320px;
+    height: 400px;
+    padding: 10px;
     margin: 0px 10px 10px 0px;
-    background-color: darkgreen;
+    background-color: rgb(234, 10, 10);
+    color:yellow;
     float: left;
-    
 }
 section
 {
-    background-color: indigo;
-   
-    float: right;
-    width: 650px;
+    width: 580px;
     height: 390px;
     padding: 15px;
+    background-color: rgb(185, 0, 202);
+    color:gold;
+    float: right;
 }
 footer
 {
-    background-color: royalblue;
-    padding: 9px;
+    padding: 10px;
     clear:both;
+    background-color: rgb(10, 55, 3);
+    color:ghostwhite;
 }
