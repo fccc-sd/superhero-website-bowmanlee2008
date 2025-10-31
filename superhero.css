@@ -87,7 +87,6 @@ nav a:active
     color: darkgreen;
     text-decoration: underline;
 }
-
 *
 {
     margin: 0;
@@ -135,5 +134,5 @@ footer
     padding: 10px;
     clear:both;
     background-color: rgb(10, 55, 3);
-    color:ghostwhite;
+    color:rgb(255, 255, 255);
 }
